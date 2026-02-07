@@ -1,0 +1,2 @@
+# ECS-VB
+ECS-VERİ BİLİMİ VE YAPAY ZEKA 
