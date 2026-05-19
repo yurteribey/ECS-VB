@@ -43,7 +43,7 @@ GOOGLE AI STUDİO UYGULAMALARI:https://aistudio.google.com/apps/19a2c254-4156-42
 GOOGLE TRENDS ANALİZ:https://huggingface.co/spaces/ecy99/google-trend-analiz?logs=container
 
 
-FİNANS VERİLERİ:
+FİNANS VERİLERİ:https://colab.research.google.com/drive/1pa7RSQdqX4Rk7gPpWrX0YfiKPI2JLANL?usp=sharing
 
 
 OPEN WEATHER İLE API HAVA DURUMU:
