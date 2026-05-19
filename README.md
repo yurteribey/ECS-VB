@@ -46,7 +46,7 @@ GOOGLE TRENDS ANALİZ:https://huggingface.co/spaces/ecy99/google-trend-analiz?lo
 FİNANS VERİLERİ:https://colab.research.google.com/drive/1pa7RSQdqX4Rk7gPpWrX0YfiKPI2JLANL?usp=sharing
 
 
-OPEN WEATHER İLE API HAVA DURUMU:
+OPEN WEATHER İLE API HAVA DURUMU:https://colab.research.google.com/drive/1OqPZn2T7RXyKGe7yjH3qUSNmIP2nRAu6#scrollTo=5-0LVgiC5Cjm
 
 
 MÜŞTERİ TERK ANALİZİ:https://colab.research.google.com/drive/1XzMwecPNePABc5FRT8XBj3nqmLLZCPoB?usp=sharing
