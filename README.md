@@ -55,25 +55,25 @@ MÜŞTERİ TERK ANALİZİ:https://colab.research.google.com/drive/1XzMwecPNePABc
 ZAMAN SERİSİ ANALİZİ:https://colab.research.google.com/drive/1OR5Qd8GiaRRT7bg3mRwaH_6ljpiNqfPG?usp=sharing
 
 
-VİBE CODİNG:
+VİBE CODİNG:https://colab.research.google.com/drive/1lqT48ikZUMVHqUMzAaFpeDZ0lEZBMKWs
 
 
 ÖNERİ SİSTEMLERİ:https://colab.research.google.com/drive/117zRYFHDaXGFw7Sd-DtlTy9u2bQJxw0B?usp=sharing
 
 
-OPENCV İLE GÖRÜNTÜ İŞLEME:
+OPENCV İLE GÖRÜNTÜ İŞLEME:https://colab.research.google.com/drive/1aOzC3261Cc0U0A65uAnyXnqeb1r4nfTC
 
 
-OpenCV Webcam Uygulamaları:
+OpenCV Webcam Uygulamaları:https://huggingface.co/spaces/ecy99/foto-filter-ai
 
 
-Deep Learning (MNIST Uygulaması):
+Deep Learning (MNIST Uygulaması):https://colab.research.google.com/drive/1PsAyZsD4LgkbeYfefCxpzOKZe1srIAVD
 
 
-Deep Learning KERAS ANN - Linear Regression Karşışatırması:
+Deep Learning KERAS ANN - Linear Regression Karşışatırması:https://colab.research.google.com/drive/1sGeNZ5sGHJb2QtYgU0K-wvqY1_j_SabL?usp=sharing
 
 
-NLP- Doğal Dil İşlemenin Temelleri:
+NLP- Doğal Dil İşlemenin Temelleri:https://colab.research.google.com/drive/1aQ9E8WQrWrfJzKlyzkKb5bM-7SkknRQk?usp=sharing
 
 
 NLP- YouTube Metin Sınıflandırıcı ve Deploy:
