@@ -34,7 +34,7 @@ TOPLU GÖRSEL İNDİRME:https://colab.research.google.com/drive/1JucyrjUZc-aa59j
 ONLİNE FORM VERİ TOPLAMA:https://colab.research.google.com/drive/14N9_JWsK0QzDniOk-gUPlqcsyklM2Joa?usp=sharing
 
 
-CORONA VERİ SETİ YARIŞAN GRAFİKLER:
+CORONA VERİ SETİ YARIŞAN GRAFİKLER:https://colab.research.google.com/drive/1LquJVQXcokd1-gK8Hmx-NRiewgjG0d38?usp=sharing
 
 
 GOOGLE AI STUDİO UYGULAMALARI:https://aistudio.google.com/apps/19a2c254-4156-42ae-bc16-ecd960aaf93a?showAssistant=true&showPreview=true
