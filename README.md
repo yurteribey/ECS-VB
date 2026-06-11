@@ -156,6 +156,6 @@ https://colab.research.google.com/drive/1A4N-Rq3LxEVj46TlQr8YphT17AMl6fJE
 
 ---
 
-📌 Eğitmen: Eren Can Yurteri
+📌 Eren Can Yurteri
 🎓 Ankara Medipol Üniversitesi - Yönetim Bilişim Sistemleri
 🚀 Veri Bilimi • Yapay Zeka • Makine Öğrenmesi • Deep Learning • NLP • Computer Vision
