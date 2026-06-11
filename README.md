@@ -76,22 +76,22 @@ Deep Learning KERAS ANN - Linear Regression Karşışatırması:https://colab.re
 NLP- Doğal Dil İşlemenin Temelleri:https://colab.research.google.com/drive/1aQ9E8WQrWrfJzKlyzkKb5bM-7SkknRQk?usp=sharing
 
 
-NLP- YouTube Metin Sınıflandırıcı ve Deploy:
+NLP- YouTube Metin Sınıflandırıcı ve Deploy:https://colab.research.google.com/drive/1A4N-Rq3LxEVj46TlQr8YphT17AMl6fJE?usp=sharing
 
 
 Kelime Bulutu:https://colab.research.google.com/drive/1o-8W-cCIWDS1f0tZk6sbbI72hA5_4GFq?usp=sharing
 
 
-HF model kullanımı transformers
+HF model kullanımı transformers:https://colab.research.google.com/drive/1ArGYrMgugjDgH5baApWyccULZ0IbHBcG?usp=sharing
 
 
-HF model kullanımı FB Translater:
+HF model kullanımı FB Translater:https://colab.research.google.com/drive/1_md2RKMSRGdDK1_ht5Xav3rfzqbkj3y6?usp=sharing
 
 
-HF model kullanımı Object Detection:
+HF model kullanımı Object Detection:https://colab.research.google.com/drive/1JTobhNNAnkwPHlQ6NTqGiWaHHXwPoEC4?usp=sharing
 
 
-HF model kullanımı Object Detection 3 Farklı yo:
+HF model kullanımı Object Detection 3 Farklı yo:https://colab.research.google.com/drive/1I-DoJXbFdMRoPIRALW7ywMYXaibo0uLO?usp=sharing
 
 
 
