@@ -1,103 +1,161 @@
-# ECS-VB
+# 🎓 ECS - Veri Bilimi ve Yapay Zeka Eğitim İçerikleri
 
+## 📚 Temel Dersler
 
-ECS-VERİ BİLİMİ VE YAPAY ZEKA 
+### 📖 Ders 1
 
+https://colab.research.google.com/drive/1vmyfb0-Y7wl5P7sc3ris80WvkAs3ft14
 
-DERS1:https://colab.research.google.com/drive/1vmyfb0-Y7wl5P7sc3ris80WvkAs3ft14#scrollTo=HvOXqx474PPD
+### 📖 Ders 2
 
+https://colab.research.google.com/drive/1ESG-6txnahjwCgNUkW1yRm6CdyED8GRm
 
-DERS2:https://colab.research.google.com/drive/1ESG-6txnahjwCgNUkW1yRm6CdyED8GRm#scrollTo=Y_Y9KB_6xv79
+### 📖 Ders 3
 
+https://colab.research.google.com/drive/12s_GTFWvkCeqAzEWIGGpxNcJP9sJRrdG
 
-DERS3:https://colab.research.google.com/drive/12s_GTFWvkCeqAzEWIGGpxNcJP9sJRrdG#scrollTo=SAJ67tYe4M29
+### 📖 Ders 4 - Titanic Veri Analizi (Kaggle)
 
+https://www.kaggle.com/code/erencanyurteri/ecytitanikdeneme
 
-DERS4(KAGGLE-TİTANİK)(BURADA Kİ KODLAR KENDİ ÇALIŞMAMDIR):https://www.kaggle.com/code/erencanyurteri/ecytitanikdeneme
+---
 
+## 📝 Ödev ve Uygulamalar
 
-VKİ VE SAYI TAHMİN OYUNU ÖDEVİ:https://colab.research.google.com/drive/1ob74DMK_erIum8LSUgr4UhGT78uoOPaK
+### ⚖️ VKİ Hesaplama ve Sayı Tahmin Oyunu
 
+https://colab.research.google.com/drive/1ob74DMK_erIum8LSUgr4UhGT78uoOPaK
 
-RESTAURANT BAHŞİŞ ÖDEVİ:https://colab.research.google.com/drive/1OAzNwwv1EeNff7bqymjgafu7d4KVWoS_#scrollTo=488F3CyU4sVM
+### 🍽️ Restaurant Bahşiş Analizi
 
+https://colab.research.google.com/drive/1OAzNwwv1EeNff7bqymjgafu7d4KVWoS_
 
-EV FİYAT TAHMİN MODELİ:https://huggingface.co/spaces/ecy99/ev-fiyat-tahmin?logs=container
+### 🎞️ Slider Uygulaması
 
+https://colab.research.google.com/drive/1MaStkd79B5MHR_jCFcZU20taa3DDWJ_1
 
-SLİDER UYGULAMASI:https://colab.research.google.com/drive/1MaStkd79B5MHR_jCFcZU20taa3DDWJ_1?usp=sharing
+### 🖼️ Toplu Görsel İndirme
 
+https://colab.research.google.com/drive/1JucyrjUZc-aa59jf9gvxrrZ47kouCnyu
 
-TOPLU GÖRSEL İNDİRME:https://colab.research.google.com/drive/1JucyrjUZc-aa59jf9gvxrrZ47kouCnyu?usp=sharing
+### 📋 Online Form ile Veri Toplama
 
+https://colab.research.google.com/drive/14N9_JWsK0QzDniOk-gUPlqcsyklM2Joa
 
-ONLİNE FORM VERİ TOPLAMA:https://colab.research.google.com/drive/14N9_JWsK0QzDniOk-gUPlqcsyklM2Joa?usp=sharing
+---
 
+## 🤖 Makine Öğrenmesi (Machine Learning)
 
-CORONA VERİ SETİ YARIŞAN GRAFİKLER:https://colab.research.google.com/drive/1LquJVQXcokd1-gK8Hmx-NRiewgjG0d38?usp=sharing
+### 🏠 Ev Fiyat Tahmin Modeli
 
+https://huggingface.co/spaces/ecy99/ev-fiyat-tahmin
 
-GOOGLE AI STUDİO UYGULAMALARI:https://aistudio.google.com/apps/19a2c254-4156-42ae-bc16-ecd960aaf93a?showAssistant=true&showPreview=true
+### 📈 Google Trends Analizi
 
+https://huggingface.co/spaces/ecy99/google-trend-analiz
 
-GOOGLE TRENDS ANALİZ:https://huggingface.co/spaces/ecy99/google-trend-analiz?logs=container
+### 💰 Finansal Veri Analizi
 
+https://colab.research.google.com/drive/1pa7RSQdqX4Rk7gPpWrX0YfiKPI2JLANL
 
-FİNANS VERİLERİ:https://colab.research.google.com/drive/1pa7RSQdqX4Rk7gPpWrX0YfiKPI2JLANL?usp=sharing
+### 🌦️ OpenWeather API Kullanımı
 
+https://colab.research.google.com/drive/1OqPZn2T7RXyKGe7yjH3qUSNmIP2nRAu6
 
-OPEN WEATHER İLE API HAVA DURUMU:https://colab.research.google.com/drive/1OqPZn2T7RXyKGe7yjH3qUSNmIP2nRAu6#scrollTo=5-0LVgiC5Cjm
+### 📉 Müşteri Terk (Churn) Analizi
 
+https://colab.research.google.com/drive/1XzMwecPNePABc5FRT8XBj3nqmLLZCPoB
 
-MÜŞTERİ TERK ANALİZİ:https://colab.research.google.com/drive/1XzMwecPNePABc5FRT8XBj3nqmLLZCPoB?usp=sharing
+### ⏳ Zaman Serisi Analizi
 
+https://colab.research.google.com/drive/1OR5Qd8GiaRRT7bg3mRwaH_6ljpiNqfPG
 
-ZAMAN SERİSİ ANALİZİ:https://colab.research.google.com/drive/1OR5Qd8GiaRRT7bg3mRwaH_6ljpiNqfPG?usp=sharing
+### 🎯 Öneri Sistemleri
 
+https://colab.research.google.com/drive/117zRYFHDaXGFw7Sd-DtlTy9u2bQJxw0B
 
-VİBE CODİNG:https://colab.research.google.com/drive/1lqT48ikZUMVHqUMzAaFpeDZ0lEZBMKWs
+---
 
+## 📊 Veri Görselleştirme
 
-ÖNERİ SİSTEMLERİ:https://colab.research.google.com/drive/117zRYFHDaXGFw7Sd-DtlTy9u2bQJxw0B?usp=sharing
+### 🦠 Corona Veri Seti Yarışan Grafikler
 
+https://colab.research.google.com/drive/1LquJVQXcokd1-gK8Hmx-NRiewgjG0d38
 
-OPENCV İLE GÖRÜNTÜ İŞLEME:https://colab.research.google.com/drive/1aOzC3261Cc0U0A65uAnyXnqeb1r4nfTC
+### ☁️ Kelime Bulutu (Word Cloud)
 
+https://colab.research.google.com/drive/1o-8W-cCIWDS1f0tZk6sbbI72hA5_4GFq
 
-OpenCV Webcam Uygulamaları:https://huggingface.co/spaces/ecy99/foto-filter-ai
+---
 
+## 🧠 Yapay Zeka ve LLM Uygulamaları
 
-Deep Learning (MNIST Uygulaması):https://colab.research.google.com/drive/1PsAyZsD4LgkbeYfefCxpzOKZe1srIAVD
+### ✨ Google AI Studio Uygulamaları
 
+https://aistudio.google.com/apps/19a2c254-4156-42ae-bc16-ecd960aaf93a
 
-Deep Learning KERAS ANN - Linear Regression Karşışatırması:https://colab.research.google.com/drive/1sGeNZ5sGHJb2QtYgU0K-wvqY1_j_SabL?usp=sharing
+### 🎨 Vibe Coding
 
+https://colab.research.google.com/drive/1lqT48ikZUMVHqUMzAaFpeDZ0lEZBMKWs
 
-NLP- Doğal Dil İşlemenin Temelleri:https://colab.research.google.com/drive/1aQ9E8WQrWrfJzKlyzkKb5bM-7SkknRQk?usp=sharing
+---
 
+## 👁️ Bilgisayarlı Görü (Computer Vision)
 
-NLP- YouTube Metin Sınıflandırıcı ve Deploy:https://colab.research.google.com/drive/1A4N-Rq3LxEVj46TlQr8YphT17AMl6fJE?usp=sharing
+### 📷 OpenCV ile Görüntü İşleme
 
+https://colab.research.google.com/drive/1aOzC3261Cc0U0A65uAnyXnqeb1r4nfTC
 
-Kelime Bulutu:https://colab.research.google.com/drive/1o-8W-cCIWDS1f0tZk6sbbI72hA5_4GFq?usp=sharing
+### 🎥 OpenCV Webcam Uygulamaları
 
+https://huggingface.co/spaces/ecy99/foto-filter-ai
 
-HF model kullanımı transformers:https://colab.research.google.com/drive/1ArGYrMgugjDgH5baApWyccULZ0IbHBcG?usp=sharing
+### 🎯 Object Detection
 
+https://colab.research.google.com/drive/1JTobhNNAnkwPHlQ6NTqGiWaHHXwPoEC4
 
-HF model kullanımı FB Translater:https://colab.research.google.com/drive/1_md2RKMSRGdDK1_ht5Xav3rfzqbkj3y6?usp=sharing
+### 🎯 Object Detection (3 Farklı Yöntem)
 
+https://colab.research.google.com/drive/1I-DoJXbFdMRoPIRALW7ywMYXaibo0uLO
 
-HF model kullanımı Object Detection:https://colab.research.google.com/drive/1JTobhNNAnkwPHlQ6NTqGiWaHHXwPoEC4?usp=sharing
+---
 
+## 🔥 Hugging Face Modelleri
 
-HF model kullanımı Object Detection 3 Farklı yo:https://colab.research.google.com/drive/1I-DoJXbFdMRoPIRALW7ywMYXaibo0uLO?usp=sharing
+### 🤗 Transformers Kullanımı
 
+https://colab.research.google.com/drive/1ArGYrMgugjDgH5baApWyccULZ0IbHBcG
 
+### 🌍 Facebook Translator Kullanımı
 
+https://colab.research.google.com/drive/1_md2RKMSRGdDK1_ht5Xav3rfzqbkj3y6
 
+---
 
+## 🧠 Deep Learning
 
+### 🔢 MNIST El Yazısı Tanıma
 
+https://colab.research.google.com/drive/1PsAyZsD4LgkbeYfefCxpzOKZe1srIAVD
 
+### 📈 Keras ANN vs Linear Regression Karşılaştırması
 
+https://colab.research.google.com/drive/1sGeNZ5sGHJb2QtYgU0K-wvqY1_j_SabL
+
+---
+
+## 💬 Doğal Dil İşleme (NLP)
+
+### 📝 NLP Temelleri
+
+https://colab.research.google.com/drive/1aQ9E8WQrWrfJzKlyzkKb5bM-7SkknRQk
+
+### 🎬 YouTube Metin Sınıflandırıcı ve Deploy
+
+https://colab.research.google.com/drive/1A4N-Rq3LxEVj46TlQr8YphT17AMl6fJE
+
+---
+
+📌 Eğitmen: Eren Can Yurteri
+🎓 Ankara Medipol Üniversitesi - Yönetim Bilişim Sistemleri
+🚀 Veri Bilimi • Yapay Zeka • Makine Öğrenmesi • Deep Learning • NLP • Computer Vision
